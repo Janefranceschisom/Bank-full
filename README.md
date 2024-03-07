@@ -1,7 +1,7 @@
 # Bank-full 
 
 
-##INTRODUCTION
+## INTRODUCTION
 
 This project was done with power bi which is a intelligence business tool. Bank term deposit subscription dataset was used to carry out the project.
 The dataset was cleaned in excel ,which after it was imported into power bi with csv/text format.The dataset contains 45,000 rows and 18 columns.
@@ -54,7 +54,7 @@ For the fourth task, in getting the number of depositors on loan, i calculated t
 ![Screenshot (8)](https://github.com/Janefranceschisom/Bank-full/assets/140454293/e926eb3d-0bcc-4a09-ba57-27c8f2ab3882)
 
 
-##CONCLUSION
+## CONCLUSION
 
 The purpose of this visualization was to know the actual number of individuals representing a particular niche.
 This will help the company make valuable insights from the solutions. using power bi makes data manipulation and visualization easy to use and can be 
